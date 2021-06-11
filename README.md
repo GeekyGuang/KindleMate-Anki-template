@@ -15,7 +15,7 @@
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411459580-babd15b5-ef02-4be2-bf33-e5f7995212a9.png#clientId=u8cb8e863-5450-4&from=paste&height=653&id=ud5d997bb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1056&originalType=binary&ratio=2&size=256662&status=done&style=none&taskId=u3f2dc372-e20f-4273-af39-a75f5090903&width=736)
 
 **单面模板**和**正反双面模板**均已分享，下载后双击即可安装
-下载链接：[]() 
+下载链接：[https://share.weiyun.com/v2nOajjV](https://share.weiyun.com/v2nOajjV) 
 密码：htnpyr
 
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411148424-42de0349-556d-4f14-8538-c14476712514.png#clientId=u8cb8e863-5450-4&from=paste&height=407&id=u10a4d747&margin=%5Bobject%20Object%5D&name=image.png&originHeight=438&originWidth=695&originalType=binary&ratio=2&size=162734&status=done&style=none&taskId=ueada26a6-dd62-493d-970e-a62e7e04029&width=645.5)
@@ -38,7 +38,7 @@
 ## 卡片一
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623388740937-2a2398e8-7370-44e4-b750-41d756f47345.png#clientId=u0d9438a7-8a52-4&from=paste&height=96&id=u7906ebd8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=101&originWidth=437&originalType=binary&ratio=2&size=6524&status=done&style=none&taskId=uf4210689-b2de-4347-bd48-1dcff1d5bef&width=417.5)
 
-**P.S. **单页面模板代码和卡一模板一样, 复制卡一代码即可
+**P.S.** 单页面模板代码和卡一模板一样, 复制卡一代码即可
 
 ### 正面模板
 ```html

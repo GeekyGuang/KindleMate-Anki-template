@@ -7,39 +7,28 @@
 1. 如未添加音频，音频播放图标则显示为这只小熊 ʕ•́ᴥ•̀ʔっ♡
 1. 修改了音标的显示样式，使其更和谐低调
 1. 优化了答案显示时的动画特效，使其更流畅舒适
-1. 将单面模板升级成了正反两面的模板，实际体验用正反两面的模板背单词效果更好
+1. 制作了3种模板
+   1. 第一种是传统的单卡片模板，先出现单词，后出现释义
+   1. 第二种也是单卡片模板，先出现释义，后出现单词
+   1. 第三种是双卡片模板，即上面2种单卡片模板的组合
 
-​
-
-效果预览：
+双卡片模板效果如下：
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411459580-babd15b5-ef02-4be2-bf33-e5f7995212a9.png#clientId=u8cb8e863-5450-4&from=paste&height=653&id=ud5d997bb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1056&originalType=binary&ratio=2&size=256662&status=done&style=none&taskId=u3f2dc372-e20f-4273-af39-a75f5090903&width=736)
-
-**单面模板**和**正反双面模板**均已分享，下载后双击即可安装
-
-下载链接:https://pan.baidu.com/s/1BxbMl8lrcBOd8ELTFoZBmw 提取码:vwxm 
-
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411148424-42de0349-556d-4f14-8538-c14476712514.png#clientId=u8cb8e863-5450-4&from=paste&height=407&id=u10a4d747&margin=%5Bobject%20Object%5D&name=image.png&originHeight=438&originWidth=695&originalType=binary&ratio=2&size=162734&status=done&style=none&taskId=ueada26a6-dd62-493d-970e-a62e7e04029&width=645.5)
+三种模板均已分享，下载后双击即可安装，请根据需要自行选择
+下载链接：[https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w](https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w) 提取码：nsjj 
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623987722931-8f37ef0a-dd2e-413d-8a37-4291c476ec97.png#clientId=ucd3f0110-f57d-4&from=paste&height=243&id=u95d82878&margin=%5Bobject%20Object%5D&name=image.png&originHeight=260&originWidth=512&originalType=binary&ratio=2&size=67746&status=done&style=none&taskId=u5489197b-e20f-4ed3-bded-3a4ebc1e8bc&width=479)
 # 代码
-如果你已经安装了上面2个模板，想要修改代码，可以点击“**工具**” -> “**管理笔记类型**”
-
+如果你已经安装了模板，想要修改代码，可以点击“**工具**” -> “**管理笔记类型**”
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623410302310-e336832e-81bc-4b3a-9dbe-1864f4537070.png#clientId=u8cb8e863-5450-4&from=paste&height=373&id=u41cfbd30&margin=%5Bobject%20Object%5D&name=image.png&originHeight=505&originWidth=766&originalType=binary&ratio=2&size=53101&status=done&style=none&taskId=u407c34ad-cb49-4d5b-8625-9c8640a5082&width=566)
-
-名为KindleMate的是单面模板，KindleMate(and reversed card)是正反双面模板
-
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623410450811-4a72a3a4-80d9-4dd5-9ee0-23a0d281d873.png#clientId=u8cb8e863-5450-4&from=paste&height=362&id=ub1abb4f0&margin=%5Bobject%20Object%5D&name=image.png&originHeight=574&originWidth=895&originalType=binary&ratio=2&size=118389&status=done&style=none&taskId=uffba1b47-efc8-46d8-8217-1a1a4e9d32f&width=564.5)
-
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623988364081-eebe30b2-59d8-47eb-bc69-018fdc8bcab3.png#clientId=ucd3f0110-f57d-4&from=paste&height=341&id=ud67f49de&margin=%5Bobject%20Object%5D&name=image.png&originHeight=397&originWidth=599&originalType=binary&ratio=2&size=100861&status=done&style=none&taskId=ud2da7a32-0d12-4c8a-a2e3-125b629f8e1&width=514.5)
 如果要修改代码，选中模板后，点击 “**卡片**”，即可看到“正面模板”“背面模板”“样式”三部分的代码。
 正反双面卡片有卡片1和卡片2，点击上方的“卡片类型”可以切换以修改代码。
-
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623410589495-1eb735b2-a9f4-49de-a7bb-2a7a8fd02b2f.png#clientId=u8cb8e863-5450-4&from=paste&height=485&id=u6b1b211e&margin=%5Bobject%20Object%5D&name=image.png&originHeight=749&originWidth=1204&originalType=binary&ratio=2&size=86881&status=done&style=none&taskId=uca6a982b-efd7-46ea-8d3d-c0bf32ca69c&width=779)
-
-
-附上我的模板源代码如下：
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623988550295-766d2219-43f6-49a6-b68f-51ac5ecff755.png#clientId=ucd3f0110-f57d-4&from=paste&height=391&id=ube889472&margin=%5Bobject%20Object%5D&name=image.png&originHeight=635&originWidth=1086&originalType=binary&ratio=2&size=48784&status=done&style=none&taskId=ufb38952b-880b-465d-9a6d-4aea747bd0c&width=669)
+附上我的双卡片模板源代码如下：
+单卡片模板(先出现单词，后出现释义)和双卡片模板的卡片一是一样的
+单卡片模板(先出现释义，后出现单词)和双卡片模板的卡片二是一样的
 ## 卡片一
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623388740937-2a2398e8-7370-44e4-b750-41d756f47345.png#clientId=u0d9438a7-8a52-4&from=paste&height=96&id=u7906ebd8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=101&originWidth=437&originalType=binary&ratio=2&size=6524&status=done&style=none&taskId=uf4210689-b2de-4347-bd48-1dcff1d5bef&width=417.5)
-
-**P.S.** 单页面模板代码和卡一模板一样, 复制卡一代码即可
-
 ### 正面模板
 ```html
 <!-- 正面区块 -->
@@ -53,13 +42,13 @@
 </div>
 
 <script>
-  let word = document.querySelector("#word").innerText.trim()
-  let prototype = document.querySelector("#prototype")
+  var word = document.querySelector("#word").innerText.trim()
+  var prototype = document.querySelector("#prototype")
   if (word.toLowerCase() === prototype.innerText.toLowerCase()){
     prototype.style.display = "none"
   }
   
-  let instance = document.querySelector("#instance")
+  var instance = document.querySelector("#instance")
   if (instance.innerHTML.trim() == '') {
     instance.classList.add("hide")
   } else {
@@ -68,7 +57,7 @@
     }
   }
 
-  let audio = document.querySelector(".audio")
+  var audio = document.querySelector(".audio")
   if (audio.innerHTML === '') {
     audio.innerHTML = 'ʕ•́ᴥ•̀ʔっ♡'
     audio.style.opacity = 1
@@ -84,7 +73,7 @@
 </div>
 
 <script type="text/javascript">
-const colorMap = {
+var colorMap = {
     'n.':'#86c440',
     'a.':'#f8b002',
     'adj.':'#727272',
@@ -121,7 +110,7 @@ const colorMap = {
     });
 
   if(div.innerHTML.indexOf('<br') === 0) {
-    let i = div.innerHTML.indexOf('>')
+    var i = div.innerHTML.indexOf('>')
     div.innerHTML = div.innerHTML.slice(i+1)
   }
  });
@@ -243,7 +232,7 @@ html {
 </div>
 
 <script type="text/javascript">
-const colorMap = {
+var colorMap = {
     'n.':'#86c440',
     'a.':'#f8b002',
     'adj.':'#727272',
@@ -265,7 +254,7 @@ const colorMap = {
     'abbr.':'#D111D3',
   };
 
-    let div = document.getElementById('paraphrase')
+    var div = document.getElementById('paraphrase')
     div.innerHTML = div.innerHTML.replace(/\b[a-z]+\./g, function(symbol) {
         if(colorMap[symbol]) {
           return '<br/><a style="background-color:' + colorMap[symbol] + ';border-radius: 4px; color:white; padding:0 3px;margin-right:5px">'+
@@ -275,11 +264,10 @@ const colorMap = {
         }
       }).replace(/(<br\/?>)+/g, '<br/>').replace(/[美英]((?!<a\s).)*\][，\s]?(<br\/?>)?/g, "");
     if(div.innerHTML.indexOf('<br') === 0) {
-      let i = div.innerHTML.indexOf('>')
+      var i = div.innerHTML.indexOf('>')
       div.innerHTML = div.innerHTML.slice(i+1)
     }
 </script>
-
 ```
 ### 背面模板
 ```html
@@ -295,13 +283,13 @@ const colorMap = {
 </div>
 
 <script>
-  let word = document.querySelector("#word").innerText.trim()
-  let prototype = document.querySelector("#prototype")
+  var word = document.querySelector("#word").innerText.trim()
+  var prototype = document.querySelector("#prototype")
   if (word.toLowerCase() === prototype.innerText.toLowerCase()){
     prototype.style.display = "none"
   }
   
-  let instance = document.querySelector("#instance")
+  var instance = document.querySelector("#instance")
   if (instance.innerHTML.trim() == '') {
     instance.classList.add("hide")
   } else {
@@ -310,7 +298,7 @@ const colorMap = {
     }
   }
 
-  let audio = document.querySelector(".audio")
+  var audio = document.querySelector(".audio")
   if (audio.innerHTML === '') {
     audio.innerHTML = 'ʕ•́ᴥ•̀ʔっ♡'
     audio.style.opacity = 1

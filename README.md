@@ -13,20 +13,33 @@
    1. 第三种是双卡片模板，即上面2种单卡片模板的组合
 
 双卡片模板效果如下：
+
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411459580-babd15b5-ef02-4be2-bf33-e5f7995212a9.png#clientId=u8cb8e863-5450-4&from=paste&height=653&id=ud5d997bb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1056&originalType=binary&ratio=2&size=256662&status=done&style=none&taskId=u3f2dc372-e20f-4273-af39-a75f5090903&width=736)
+
 三种模板均已分享，下载后双击即可安装，请根据需要自行选择
+
 下载链接：[https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w](https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w) 提取码：nsjj 
+
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623987722931-8f37ef0a-dd2e-413d-8a37-4291c476ec97.png#clientId=ucd3f0110-f57d-4&from=paste&height=243&id=u95d82878&margin=%5Bobject%20Object%5D&name=image.png&originHeight=260&originWidth=512&originalType=binary&ratio=2&size=67746&status=done&style=none&taskId=u5489197b-e20f-4ed3-bded-3a4ebc1e8bc&width=479)
 # 代码
+
 如果你已经安装了模板，想要修改代码，可以点击“**工具**” -> “**管理笔记类型**”
+
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623410302310-e336832e-81bc-4b3a-9dbe-1864f4537070.png#clientId=u8cb8e863-5450-4&from=paste&height=373&id=u41cfbd30&margin=%5Bobject%20Object%5D&name=image.png&originHeight=505&originWidth=766&originalType=binary&ratio=2&size=53101&status=done&style=none&taskId=u407c34ad-cb49-4d5b-8625-9c8640a5082&width=566)
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623988364081-eebe30b2-59d8-47eb-bc69-018fdc8bcab3.png#clientId=ucd3f0110-f57d-4&from=paste&height=341&id=ud67f49de&margin=%5Bobject%20Object%5D&name=image.png&originHeight=397&originWidth=599&originalType=binary&ratio=2&size=100861&status=done&style=none&taskId=ud2da7a32-0d12-4c8a-a2e3-125b629f8e1&width=514.5)
+
 如果要修改代码，选中模板后，点击 “**卡片**”，即可看到“正面模板”“背面模板”“样式”三部分的代码。
-正反双面卡片有卡片1和卡片2，点击上方的“卡片类型”可以切换以修改代码。
+
+双卡片模板有卡片1和卡片2，点击上方的“卡片类型”可以切换以修改代码。
+
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623988550295-766d2219-43f6-49a6-b68f-51ac5ecff755.png#clientId=ucd3f0110-f57d-4&from=paste&height=391&id=ube889472&margin=%5Bobject%20Object%5D&name=image.png&originHeight=635&originWidth=1086&originalType=binary&ratio=2&size=48784&status=done&style=none&taskId=ufb38952b-880b-465d-9a6d-4aea747bd0c&width=669)
+
 附上我的双卡片模板源代码如下：
+
 单卡片模板(先出现单词，后出现释义)和双卡片模板的卡片一是一样的
+
 单卡片模板(先出现释义，后出现单词)和双卡片模板的卡片二是一样的
+
 ## 卡片一
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623388740937-2a2398e8-7370-44e4-b750-41d756f47345.png#clientId=u0d9438a7-8a52-4&from=paste&height=96&id=u7906ebd8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=101&originWidth=437&originalType=binary&ratio=2&size=6524&status=done&style=none&taskId=uf4210689-b2de-4347-bd48-1dcff1d5bef&width=417.5)
 ### 正面模板

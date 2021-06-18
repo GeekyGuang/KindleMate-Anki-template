@@ -14,7 +14,7 @@
 
 双卡片模板效果如下：
 
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623411459580-babd15b5-ef02-4be2-bf33-e5f7995212a9.png#clientId=u8cb8e863-5450-4&from=paste&height=653&id=ud5d997bb&margin=%5Bobject%20Object%5D&name=image.png&originHeight=937&originWidth=1056&originalType=binary&ratio=2&size=256662&status=done&style=none&taskId=u3f2dc372-e20f-4273-af39-a75f5090903&width=736)
+![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1624000414322-1214da79-14d7-4500-bea0-d38f9ef5e3fe.png#clientId=ud25db666-f0ff-4&from=paste&height=564&id=ud1ab488d&margin=%5Bobject%20Object%5D&name=image.png&originHeight=900&originWidth=1014&originalType=binary&ratio=2&size=195455&status=done&style=none&taskId=u3af91e9d-3af9-43ce-8898-109044144a7&width=635)
 
 三种模板均已分享，下载后双击即可安装，请根据需要自行选择
 
@@ -39,6 +39,8 @@
 单卡片模板(先出现单词，后出现释义)和双卡片模板的卡片一是一样的
 
 单卡片模板(先出现释义，后出现单词)和双卡片模板的卡片二是一样的
+
+**注意**：Anki电脑版不支持ES6语法，比如用let/const声明变量会出现意想不到的bug
 
 ## 卡片一
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623388740937-2a2398e8-7370-44e4-b750-41d756f47345.png#clientId=u0d9438a7-8a52-4&from=paste&height=96&id=u7906ebd8&margin=%5Bobject%20Object%5D&name=image.png&originHeight=101&originWidth=437&originalType=binary&ratio=2&size=6524&status=done&style=none&taskId=uf4210689-b2de-4347-bd48-1dcff1d5bef&width=417.5)

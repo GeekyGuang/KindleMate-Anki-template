@@ -18,8 +18,6 @@
 
 三种模板均已分享，下载后双击即可安装，请根据需要自行选择
 
-我个人喜欢用第二种模板，即看中文意思回忆英文单词，因为我的单词都是通过阅读积累的，不需要再通过先看单词再看中文意思的方式来再学一遍，通过看中文意思回忆英文单词更能掌握单词的用法也更高效；第三种模板也很好，但是要花费双倍的时间，学习英语不该把过多的时间用在记单词上，所以用第二种就可以了。
-
 下载链接：[https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w](https://pan.baidu.com/s/1y0ROMH2_CExjm6LeMeUv0w) 提取码：nsjj 
 
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/1753813/1623987722931-8f37ef0a-dd2e-413d-8a37-4291c476ec97.png#clientId=ucd3f0110-f57d-4&from=paste&height=243&id=u95d82878&margin=%5Bobject%20Object%5D&name=image.png&originHeight=260&originWidth=512&originalType=binary&ratio=2&size=67746&status=done&style=none&taskId=u5489197b-e20f-4ed3-bded-3a4ebc1e8bc&width=479)
